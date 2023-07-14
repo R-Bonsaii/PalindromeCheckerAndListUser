@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Suitmedia</string>
+    <string name="name_hint">Name</string>
+    <string name="palindrome_hint">Palindrome</string>
+    <string name="next_btn">NEXT</string>
+    <string name="check_btn">CHECK</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_btn">Choose a User</string>
+    <string name="data_empty">No data has been loaded yet, try checking your internet connection</string>
+    <string name="third_screen">Third Screen</string>
+</resources>
